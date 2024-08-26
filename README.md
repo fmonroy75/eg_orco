@@ -20,7 +20,7 @@ personaje y su nivel de acuerdo a lo siguiente:
 - El nivel mínimo es 1 y no hay máximo.
 - Cada 100 puntos de experiencia recibidos, el personaje sube 1 nivel (su nivel
 aumenta en 1). Ejemplo: El personaje tiene actualmente nivel 1 y experiencia
-1. Si se asigna 250 a su estado, pasará a tener nivel 3 y experiencia 50.
+- Si se asigna 250 a su estado, pasará a tener nivel 3 y experiencia 50.
 - Si la experiencia recibida es negativa, se debe restar a la experiencia actual
 del personaje. Cada vez que la experiencia sea menor a 0, el personaje baja
 de nivel (su nivel disminuye en 
