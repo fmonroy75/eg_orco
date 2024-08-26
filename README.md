@@ -5,6 +5,7 @@ El prototipo debe desarrollarse utilizando una aplicación de consola escrita en
 conste de un script principal que ejecute el juego, y una clase que permita crear personajes,
 que debe ser importada en el script principal. Las opciones de juego del usuario, así como el
 nombre de su personaje, se deben solicitar mediante input.
+
 La clase que permite crear personajes debe considerar lo siguiente:
 ● Cada personaje tiene un nombre, el cual debe ser especificado al momento de crear
 un personaje.
